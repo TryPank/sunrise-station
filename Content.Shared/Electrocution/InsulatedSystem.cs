@@ -17,7 +17,7 @@ public sealed partial class InsulatedSystem : EntitySystem
     {
         if (comp.PreventOpperatinGuns && !args.Args.Used.Comp.BigTrigger)
         {
-            PopupSystem.PopupClient(Loc.GetString("gun-Insulated-gloves"), args.Args.User);
+            PopupSystem.PopupClient(Loc.GetString("изолированные перчатки не позволяют это сделать"), args.Args.User); #Sunrise-edit
             args.Args.Cancel();
         }
     }
