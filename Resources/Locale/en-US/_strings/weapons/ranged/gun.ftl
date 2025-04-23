@@ -9,7 +9,6 @@ gun-set-fire-mode = Set to {$mode}
 gun-magazine-whitelist-fail = That won't fit into the gun!
 gun-magazine-fired-empty = No ammo left!
 
-
 # SelectiveFire
 gun-SemiAuto = semi-auto
 gun-Burst = burst
