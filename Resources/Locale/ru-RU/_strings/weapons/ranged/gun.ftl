@@ -7,6 +7,8 @@ gun-clumsy = Оружие взрывается вам в лицо!
 gun-set-fire-mode = Выбран режим { $mode }
 gun-magazine-whitelist-fail = Это не помещается в оружие!
 gun-magazine-fired-empty = Патронов не осталось!
+gun-Insulated-gloves = изолированные перчатки не позволяют это сделать!
+
 # SelectiveFire
 gun-SemiAuto = полуавто
 gun-Burst = очередь
