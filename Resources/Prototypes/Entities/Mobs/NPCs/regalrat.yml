@@ -244,7 +244,7 @@
     animation: WeaponArcClaw
     damage:
       types:
-        Slash: 9
+        Slash: 8
         Piercing: 5
   - type: Body
     prototype: Rat

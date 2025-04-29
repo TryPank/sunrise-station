@@ -102,7 +102,7 @@ public sealed partial class RatKingComponent : Component
 
     // Sunrise-start
     [DataField]
-    public int MaxArmyCount = 20;
+    public int MaxArmyCount = 18;
     // Sunrise-end
 }
 
