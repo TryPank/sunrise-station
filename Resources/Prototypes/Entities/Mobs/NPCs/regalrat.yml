@@ -244,8 +244,8 @@
     animation: WeaponArcClaw
     damage:
       types:
-        Slash: 8
-        Piercing: 5
+        Slash: 8 # Sunrise-Edit
+        Piercing: 5 # Sunrise-Edit
   - type: Body
     prototype: Rat
     requiredLegs: 1 # TODO: More than 1 leg
