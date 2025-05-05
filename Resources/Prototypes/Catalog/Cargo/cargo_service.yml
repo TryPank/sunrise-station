@@ -88,6 +88,16 @@
   category: cargoproduct-category-name-service
   group: market
 
+  type: cargoProduct
+  id: ServiceBureaucracy
+  icon:
+    sprite: Objects/Misc/pens.rsi
+    state: pen
+  product: CrateServiceBureaucracyINC
+  cost: 1000
+  category: cargoproduct-category-name-service
+  group: market
+
 - type: cargoProduct
   id: ServiceFaxMachine
   icon:
