@@ -89,7 +89,7 @@
   group: market
 
   type: cargoProduct
-  id: CrateServiceBureaucracyINC
+  id: CrateServiceRefillPrinter
   icon:
     sprite: Objects/Misc/pens.rsi
     state: pen
